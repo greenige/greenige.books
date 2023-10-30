@@ -1,0 +1,44 @@
+body{
+background-image:url(banner.png);
+
+}
+.wrapper{
+    width: 100%;
+}
+.nbooks h1{
+    text-align: center;
+    color: white;
+
+
+
+}
+
+.ig h1{
+
+padding-top: 50px;
+text-align: center;
+
+
+}
+
+
+
+
+.ig h1 a {
+
+text-decoration: none;
+color: black;
+transition: 0.4s ease-in-out;
+
+
+
+}
+
+.ig h1 a:hover{
+
+color: white;
+
+
+}
+
+

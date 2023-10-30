@@ -1,0 +1,33 @@
+body{
+    background-image: url(banner.png);
+}
+
+.wrapper{
+width: 100%;
+
+}
+.edbooks{
+
+text-align: center;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+padding-top: 10px;
+font-size: 20px;
+}
+.img a img{ 
+    width: 150px;
+    padding: 10px;
+    
+}
+.edbooks a{
+
+text-decoration: none;
+color: black;
+transition: o.4s ease-in-out;
+size: 10PX;
+
+}
+.edbooks a:hover{
+color: white;
+
+}

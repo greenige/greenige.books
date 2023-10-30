@@ -1,0 +1,51 @@
+body{
+background-image: url(banner.png);
+
+}
+
+
+
+.wrappper{
+ width: 100%;
+
+}
+
+.thebooks h1{
+text-align: center;
+color: white;
+font-size: 50px;
+
+}
+.thebooks p{
+
+text-align: center;
+margin-top: 100px;
+font-size: 35px;
+
+
+}
+.topics{
+
+align-items: center;
+
+
+}
+
+.topics h1 a{
+
+text-decoration: none;
+color: black;
+margin-left: 140px;
+
+transition: 0.4s ease-in-out;
+
+
+}
+.topics h1 a:hover{
+
+    color: white;
+}
+
+
+
+
